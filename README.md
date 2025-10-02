@@ -16,6 +16,8 @@ This project uses **React (frontend)** and **PHP (backend)**.
 
 ## react@19.1.1 used
 
+## npm (Node Package Manager) version - 10.8.3
+
 ## Available Scripts
 
 In the project directory, you can run:
