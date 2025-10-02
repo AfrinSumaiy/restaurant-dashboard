@@ -14,7 +14,7 @@ This project uses **React (frontend)** and **PHP (backend)**.
 
 ### `npm install react-icons`
 
-## react@19.1.1 used
+## react@19.9.0 used
 
 ## npm (Node Package Manager) version - 10.8.3
 
