@@ -1,0 +1,34 @@
+{
+  "require-dev": {
+    "symfony/dotenv": "^5.4"
+  },
+  "require": {
+    "symfony/http-foundation": "^5.4",
+    "symfony/filesystem": "^5.4",
+    "symfony/finder": "^5.4",
+    "rakit/validation": "^1.4",
+    "izniburak/pdox": "^1.6",
+    "league/plates": "^3.4",
+    "izniburak/router": "^2.5",
+    "ramsey/uuid": "^4.2",
+    "phpmailer/phpmailer": "^6.6",
+    "firebase/php-jwt": "^6.1",
+    "symfony/http-client": "^5.4",
+    "dompdf/dompdf": "^1.2",
+    "aws/aws-sdk-php": "^3.324",
+    "phpoffice/phpspreadsheet": "^1.23",
+    "sociallydev/spaces-api": "^3.6",
+    "symfony/mime": "^5.4",
+    "claviska/simpleimage": "^3.7",
+    "sendgrid/sendgrid": "^8.0",
+    "sendinblue/api-v3-sdk": "^8.4",
+    "symfony/process": "^5.4",
+    "alchemy/zippy": "^1.0",
+    "chrome-php/chrome": "^1.6",
+    "symfony/error-handler": "^5.4",
+    "mpdf/mpdf": "^8.1",
+    "picqer/php-barcode-generator": "^2.3",
+    "symfony/routing": "^5.4",
+    "google/cloud-storage": "^1.39"
+  }
+}
