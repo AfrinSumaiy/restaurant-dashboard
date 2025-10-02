@@ -14,6 +14,8 @@ This project uses **React (frontend)** and **PHP (backend)**.
 
 ### `npm install react-icons`
 
+## react@19.1.1 used
+
 ## Available Scripts
 
 In the project directory, you can run:
